@@ -14,7 +14,7 @@ License :
 MIT
 
 Contributors : 
-Chiraag Mudlapur            PES2UG21CS146
-Diya Mariya                 PES2UG21CS167
-Prashil Himanshu Jatakiya   PES2UG21CS211
-Abhilash Vinod              PES2UG21CS014
+Chiraag Mudlapur            PES2UG21CS146, 
+Diya Mariya                 PES2UG21CS167, 
+Prashil Himanshu Jatakiya   PES2UG21CS211, 
+Abhilash Vinod              PES2UG21CS014, 
